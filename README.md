@@ -11,3 +11,7 @@
 ✅ Day Three: **Jumping on the Clouds**
   - [Problem Statement](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup)
   - [Solution](https://github.com/ericabertan/interview-kit/blob/main/jumping_on_the_clouds.py)
+
+✅ Day Four: **Repeated String**
+  - [Problem Statement](https://www.hackerrank.com/challenges/repeated-string/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup)
+  - [Solution](https://github.com/ericabertan/interview-kit/blob/main/repeated_string.py)
