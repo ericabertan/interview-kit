@@ -1,0 +1,56 @@
+#!/bin/python3
+
+import math
+import os
+import random
+import re
+import sys
+
+#
+# Complete the 'repeatedString' function below.
+#
+# The function is expected to return a LONG_INTEGER.
+# The function accepts following parameters:
+#  1. STRING s
+#  2. LONG_INTEGER n
+#
+
+def repeatedString(s, n):
+    i = 0
+    stringLength = len(s)
+    chunks = math.floor(n / stringLength)
+    
+    """"Numero de as na string"""
+    _a = 0
+    for c in s:
+        if c == 'a':
+            _a += 1
+
+    totalA = chunks * _a
+
+    leftCharsAmount = n - (stringLength * chunks)
+
+    while i < leftCharsAmount:
+        if s[i] == 'a':
+            totalA += 1
+        else:
+            ...
+        
+        i += 1
+
+    
+    return totalA
+            
+
+if __name__ == '__main__':
+    fptr = open(os.environ['OUTPUT_PATH'], 'w')
+
+    s = input()
+
+    n = int(input().strip())
+
+    result = repeatedString(s, n)
+
+    fptr.write(str(result) + '\n')
+
+    fptr.close()
