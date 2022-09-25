@@ -15,3 +15,7 @@
 ✅ Day Four: **Repeated String**
   - [Problem Statement](https://www.hackerrank.com/challenges/repeated-string/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup)
   - [Solution](https://github.com/ericabertan/interview-kit/blob/main/repeated_string.py)
+
+✅ Day Five: **2D Array - DS**
+- [Problem Statement](https://www.hackerrank.com/challenges/2d-array/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)
+- [Solution](https://github.com/ericabertan/interview-kit/blob/main/2d_arrays_ds.py)
