@@ -26,3 +26,7 @@
 ✅🟡 Day Six: **Minimum Swaps 2**
 - [Problem Statement](https://www.hackerrank.com/challenges/minimum-swaps-2/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)
 - [Solution](https://github.com/ericabertan/interview-kit/tree/main)
+
+✅🟢 Day Seven: **Arrays: Left Rotation**
+- [Problem Statement](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)
+- [Solution](https://github.com/ericabertan/interview-kit/blob/main/arrays_left_rotation.py)
