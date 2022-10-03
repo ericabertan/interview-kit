@@ -31,12 +31,14 @@
 - [Problem Statement](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)
 - [Solution](https://github.com/ericabertan/interview-kit/blob/main/arrays_left_rotation.py)
 
-[8/69]
+🚧🔴[8/69] **New Year Chaos**
+- [Problem Statement](https://www.hackerrank.com/challenges/new-year-chaos/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)
 
-[9/69]
+🚧[9/69] **Array Manipulation**
+- [Problem Statement](https://www.hackerrank.com/challenges/crush/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)
 
 ## Dictionaries and Hashmaps
 
-✅🟢 [10/69] **Two Strings**
-- [Problem Statement](https://www.hackerrank.com/challenges/two-strings/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)
-- [Solution]()
+✅🟢 [10/69] **Hash Tables: Ransom Note**
+- [Problem Statement](https://www.hackerrank.com/challenges/ctci-ransom-note/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)
+- [Solution](https://github.com/ericabertan/interview-kit/blob/main/dictionaries-and-hashmaps/hash-tables-ransom-note.py)
