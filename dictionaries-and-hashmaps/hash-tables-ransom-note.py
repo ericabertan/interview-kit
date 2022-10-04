@@ -15,18 +15,16 @@ import sys
 #
 
 def checkMagazine(magazine, note):
-    # Build the dictionary
+
     dic = {}
     for word in magazine:
         if word in dic:
             dic[word] = dic[word] + 1
         else:
             dic[word] = 1
-
-    # Check every word inside the dict
-    # If doesn't exist, print No and return
+            
     for word in note:
-        if word in dic and dic[word] > 0:
+        if dic.get(word) != None and dic.get(word) > 0:
             dic[word] = dic[word] - 1
             continue
         else:
