@@ -46,3 +46,7 @@
 ✅🟢 [11/69] **Two Strings**
 - [Problem Statement](https://www.hackerrank.com/challenges/two-strings/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)
 - [Solution](https://github.com/ericabertan/interview-kit/blob/main/dictionaries-and-hashmaps/two_strings.py)
+
+✅🔴 [12/69] **Sherlock and Anagrams**
+- [Problem Statement](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)
+- [Solution](https://github.com/ericabertan/interview-kit/blob/main/dictionaries-and-hashmaps/sherlock_and_anagrams.py)
