@@ -1,5 +1,14 @@
 # Interview Kit Challenge by HackerRank
 
+###### ✨ Legends ✨
+
+* 🚧 -> To be done
+* ✅ -> Done
+* 🟢 -> It was easy
+* 🟡 -> Strugled a bit
+* 🔴 -> It was hard
+
+
 ## Warm up
 ✅🟢 [1/69] **Sales By Match**
   - [Problem Statement](https://www.hackerrank.com/challenges/sock-merchant/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup)
@@ -31,10 +40,11 @@
 - [Problem Statement](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)
 - [Solution](https://github.com/ericabertan/interview-kit/blob/main/arrays_left_rotation.py)
 
-🚧🔴[8/69] **New Year Chaos**
+✅🔴 [8/69] **New Year Chaos**
 - [Problem Statement](https://www.hackerrank.com/challenges/new-year-chaos/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)
+- [Solution](https://github.com/ericabertan/interview-kit/blob/main/new-year-chaos.py)
 
-🚧[9/69] **Array Manipulation**
+🚧 [9/69] **Array Manipulation**
 - [Problem Statement](https://www.hackerrank.com/challenges/crush/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)
 
 ## Dictionaries and Hashmaps
