@@ -1,6 +1,6 @@
 # Interview Kit Challenge by HackerRank
 
-###### ✨ Legends ✨
+
 
 * 🚧 -> To be done
 * ✅ -> Done
@@ -8,6 +8,8 @@
 * 🟡 -> Strugled a bit
 * 🔴 -> It was hard
 
+
+![Lets go](https://media.giphy.com/media/VT6eildjKdVWU/giphy.gif)
 
 ## Warm up
 ✅🟢 [1/69] **Sales By Match**
