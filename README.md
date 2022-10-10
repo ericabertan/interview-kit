@@ -60,3 +60,8 @@
 ✅🔴 [12/69] **Sherlock and Anagrams**
 - [Problem Statement](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)
 - [Solution](https://github.com/ericabertan/interview-kit/blob/main/dictionaries-and-hashmaps/sherlock_and_anagrams.py)
+
+## Sorting
+
+[n/n] **Bônus (not included on the kit) - Insertion Sort - Part 1**
+- [Problem Statement](https://www.hackerrank.com/challenges/insertionsort1/problem?utm_campaign=social-buttons&utm_medium=twitter&utm_source=challenge)
