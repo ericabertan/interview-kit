@@ -93,5 +93,10 @@ But I solved in order to consolidate concepts and algorithms
 
 ✅🟢 **Insertion Sort - Part 1**
 
-- [Problem Statement](https://www.hackerrank.com/challenges/insertionsort1/problem?utm_campaign=social-buttons&utm_medium=twitter&utm_source=challenge)
-- [Solution](https://github.com/ericabertan/interview-kit/blob/main/sorting/insertion_sort_part_1.py)
+- [Problem Statement](https://www.hackerrank.com/challenges/insertionsort1/problem)
+- [Solution](https://github.com/ericabertan/interview-kit/blob/main/bonus/insertion_sort_part_1.py)
+
+✅🟢 **Insertion Sort - Part 2**
+
+- [Problem Statement](https://www.hackerrank.com/challenges/insertionsort2/problem)
+- [Solution](https://github.com/ericabertan/interview-kit/blob/main/bonus/insertion_sort_part_2.py)
