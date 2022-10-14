@@ -73,9 +73,10 @@
 - [Problem Statement](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)
 - [Solution](https://github.com/ericabertan/interview-kit/blob/main/dictionaries-and-hashmaps/sherlock_and_anagrams.py)
 
-🚧 [13/69] **Count Triplets**
+✅🟡 [13/69] **Count Triplets**
 
-- [Problem Statement](https://www.hackerrank.com/challenges/count-triplets-1/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)
+- [Problem Statement](https://www.hackerrank.com/challenges/count-triplets-1/problem)
+- [Solution](https://github.com/ericabertan/interview-kit/blob/main/dictionaries-and-hashmaps/count-triplets.py)
 
 🚧 [14/69] **Frequency Queries**
 
