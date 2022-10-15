@@ -5,6 +5,7 @@ import os
 import random
 import re
 import sys
+from collections import Counter
 
 # O(n3) - bad solution
 def countTriplets(arr, r):
@@ -20,6 +21,20 @@ def countTriplets(arr, r):
 
     return tripletsCount
 
+def optimizedCountTriplets(arr, r):
+    a = Counter(arr)
+    b = Counter()
+    s = 0
+    for i in arr:
+        j = i // r
+        k = i * r
+        a[i] -= 1
+        if b[j] and a[k] and not i % r:
+            s += b[j] * a[k]
+        b[i]+= 1
+    return s
+
+
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
 
@@ -31,7 +46,7 @@ if __name__ == '__main__':
 
     arr = list(map(int, input().rstrip().split()))
 
-    ans = countTriplets(arr, r)
+    ans = optimizedCountTriplets(arr, r)
 
     fptr.write(str(ans) + '\n')
 
