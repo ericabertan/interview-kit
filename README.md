@@ -88,7 +88,13 @@
 
 - [Problem Statement](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting)
 
+✅🟡 [16/69] **Mark and Toys**
+
+- [Problem Statement](https://www.hackerrank.com/challenges/mark-and-toys/problem)
+- [Solution](https://github.com/ericabertan/interview-kit/blob/main/sorting/mark_and_toys.py)
+
 ## Bonus
+
 Exercises not included in the interview kit list but I solved it anyway in order to consolidate concepts and algorithms
 
 ✅🟢 **Insertion Sort - Part 1**
