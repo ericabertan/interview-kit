@@ -93,6 +93,13 @@
 - [Problem Statement](https://www.hackerrank.com/challenges/mark-and-toys/problem)
 - [Solution](https://github.com/ericabertan/interview-kit/blob/main/sorting/mark_and_toys.py)
 
+## Greedy Algorithms
+
+✅🔴 [17/69] **Greedy Flourist**
+
+- [Problem Statement](https://www.hackerrank.com/challenges/greedy-florist/problem)
+- [Solution](https://github.com/ericabertan/interview-kit/blob/main/greedy-algorithms/greedy_flourist.py)
+
 ## Bonus
 
 Exercises not included in the interview kit list but I solved it anyway in order to consolidate concepts and algorithms
