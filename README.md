@@ -93,9 +93,14 @@
 - [Problem Statement](https://www.hackerrank.com/challenges/mark-and-toys/problem)
 - [Solution](https://github.com/ericabertan/interview-kit/blob/main/sorting/mark_and_toys.py)
 
+✅🟢 [17/69] **Sorting: Comparator**
+
+- [Problem Statement](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem)
+- [Solution](https://github.com/ericabertan/interview-kit/blob/main/sorting/sorting_comparator.py)
+
 ## Greedy Algorithms
 
-✅🔴 [17/69] **Greedy Flourist**
+✅🔴 [18/69] **Greedy Flourist**
 
 - [Problem Statement](https://www.hackerrank.com/challenges/greedy-florist/problem)
 - [Solution](https://github.com/ericabertan/interview-kit/blob/main/greedy-algorithms/greedy_flourist.py)
