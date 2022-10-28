@@ -98,9 +98,24 @@
 - [Problem Statement](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem)
 - [Solution](https://github.com/ericabertan/interview-kit/blob/main/sorting/sorting_comparator.py)
 
+✅🟢 [18/69] **Sorting: Bubble Sort**
+
+- [Problem Statement](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem)
+- [Solution](https://github.com/ericabertan/interview-kit/blob/main/sorting/sorting_bubble_sort.py)
+
+🚧 [19/69] **Fraudulent Activity Notifications**
+
+- [Problem Statement](https://www.hackerrank.com/challenges/fraudulent-activity-notifications)
+- [Solution](www.google.com)
+
+🚧 [20/69] **Merge Sort: Counting Inversions**
+
+- [Problem Statement](https://www.hackerrank.com/challenges/ctci-merge-sort/problem)
+- [Solution](www.google.com)
+
 ## Greedy Algorithms
 
-✅🔴 [18/69] **Greedy Flourist**
+✅🔴 [21/69] **Greedy Flourist**
 
 - [Problem Statement](https://www.hackerrank.com/challenges/greedy-florist/problem)
 - [Solution](https://github.com/ericabertan/interview-kit/blob/main/greedy-algorithms/greedy_flourist.py)
