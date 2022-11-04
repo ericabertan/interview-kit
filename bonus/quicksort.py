@@ -8,9 +8,9 @@ def quicksort(arr, start, end):
     return arr
 
   while start < end:
-    while arr[start] < pivot:
+    while i < j and arr[start] < pivot:
       start += 1
-    while arr[end] > pivot:
+    while i < j and arr[end] > pivot:
       end -= 1
 
     tmp = arr[start]
